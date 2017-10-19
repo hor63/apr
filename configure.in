@@ -575,7 +575,7 @@ case $host in
        ;;
    *cygwin*)
        OSDIR="unix"
-       enable_threads="no"
+       # enable_threads="no"
        eolstr="\\n"
        ;;
    *hpux10* ) 
