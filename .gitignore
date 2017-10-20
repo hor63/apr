@@ -1,4 +1,32 @@
-apr.spec
-build-outputs.mk
-configure
-include/arch/unix/apr_private.h.in
+
+# Stuff created by buildconf
+/apr.spec
+/build-outputs.mk
+/configure
+/include/arch/unix/apr_private.h.in
+
+# Stuff created by configure
+Makefile
+/apr-1-config
+/apr.pc
+/config.log
+/config.nice
+/config.status
+/include/apr.h
+/include/arch/unix/apr_private.h
+/libtool
+
+# Stuff created by make
+*.o
+*.lo
+.libs
+.make.dirs
+*.exe
+*.la
+/apr-config.out
+/apr.exp
+/build/apr_rules.out
+/export_vars.c
+/exports.c
+/include/private
+
