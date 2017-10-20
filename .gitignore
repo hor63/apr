@@ -1,0 +1,4 @@
+apr.spec
+build-outputs.mk
+configure
+include/arch/unix/apr_private.h.in
