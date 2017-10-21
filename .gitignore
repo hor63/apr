@@ -13,8 +13,11 @@ Makefile
 /config.nice
 /config.status
 /include/apr.h
-/include/arch/unix/apr_private.h
+/include/arch/unix/apr_private.h*
 /libtool
+/autom4te.cache
+
+
 
 # Stuff created by make
 *.o
