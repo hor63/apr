@@ -1,10 +1,4 @@
 
-# Stuff created by buildconf
-/apr.spec
-/build-outputs.mk
-/configure
-/include/arch/unix/apr_private.h.in
-
 # Stuff created by configure
 Makefile
 /apr-1-config
@@ -14,10 +8,9 @@ Makefile
 /config.status
 /include/apr.h
 /include/arch/unix/apr_private.h*
+!/include/arch/unix/apr_private.h.in
 /libtool
 /autom4te.cache
-
-
 
 # Stuff created by make
 *.o
@@ -32,4 +25,3 @@ Makefile
 /export_vars.c
 /exports.c
 /include/private
-
